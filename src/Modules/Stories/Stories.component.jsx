@@ -1,9 +1,6 @@
 import React from "react";
 import { UserCard } from "react-ui-cards";
 import styled from "styled-components";
-import Katous from "../../Static/katous.jpg";
-import HelpImage from "../../Static/help.jpg";
-import YedkImage from "../../Static/yedk.jpg";
 
 const Container = styled.div`
   display: flex;
